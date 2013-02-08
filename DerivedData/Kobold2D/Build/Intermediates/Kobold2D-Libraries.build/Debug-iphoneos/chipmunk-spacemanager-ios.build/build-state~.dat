@@ -1,0 +1,534 @@
+Tchipmunk-spacemanager-ios
+v5
+r1
+cCheck dependencies
+cProcessPCH /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-amktvkubzucokyehpwwvhagewmqd/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bmuwsyvsvmmcjkgwkahevuqeelsa/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpPulleyJoint.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpExtras/cpPulleyJoint.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-arnrbxsqqgayfxdvcumkfoqskfsf/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-comnkqzgqagijbbcxusyfjpcnmzm/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpSpaceSerializer.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/cpSpaceSerializer.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinystr.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinystr.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCNode.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCNode.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCNodeImpl.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCNodeImpl.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCSprite.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCSprite.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpConstraintNode.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpConstraintNode.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpShapeNode.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpShapeNode.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/SpaceManagerCocos2d.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/SpaceManagerCocos2d.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxml.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxml.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxmlerror.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxmlerror.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxmlparser.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxmlparser.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/SpaceManager.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/SpaceManager.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libchipmunk-spacemanager-ios.a normal armv7
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk
+c00000000503C83D40000000000000132
+t1346143188
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c0000000050C7ED960000000000000944
+t1355279766
+s2372
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c0000000050C7ED950000000000000A21
+t1355279765
+s2593
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050C7ED9800000000000015F7
+t1355279768
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c0000000050C7ED9900000000000005C2
+t1355279769
+s1474
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c0000000050C7ED9C00000000000064FD
+t1355279772
+s25853
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c0000000050C7ED9C0000000000001F45
+t1355279772
+s8005
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000050C7ED9E0000000000000E8D
+t1355279774
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/include/Availability.h
+c0000000050C7EDA60000000000001B54
+t1355279782
+s6996
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/include/objc/message.h
+c0000000050C7EDA700000000000023DB
+t1355279783
+s9179
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/include/objc/runtime.h
+c0000000050C7EDA7000000000000672A
+t1355279783
+s26410
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/SpaceManager.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/SpaceManagerCocos2d.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/chipmunk-spacemanager-ios.LinkFileList
+c0000000050EED6AE0000000000000980
+t1357829806
+s2432
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCNode.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCNodeImpl.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCSprite.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpConstraintNode.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpPulleyJoint.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpShapeNode.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpSpaceSerializer.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinystr.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxml.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxmlerror.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxmlparser.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-amktvkubzucokyehpwwvhagewmqd/Prefix-iOS.pch.pth
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-arnrbxsqqgayfxdvcumkfoqskfsf/Prefix-iOS.pch.pth
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bmuwsyvsvmmcjkgwkahevuqeelsa/Prefix-iOS.pch.pth
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-comnkqzgqagijbbcxusyfjpcnmzm/Prefix-iOS.pch.pth
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libchipmunk-spacemanager-ios.a
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/SpaceManager.mm
+c000000004FF6CB86000000000000C3E1
+t1341574022
+s50145
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/SpaceManagerCocos2d.m
+c000000004F803F7600000000000014DF
+t1333804918
+s5343
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCNode.m
+c000000004FF5F4E00000000000000354
+t1341519072
+s852
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCNodeImpl.m
+c000000004FF5F4E00000000000000BE3
+t1341519072
+s3043
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCSprite.m
+c000000004FF5F5F200000000000004C8
+t1341519346
+s1224
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpConstraintNode.m
+c000000004F803F8100000000000035C9
+t1333804929
+s13769
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpShapeNode.m
+c000000004FF5F52D0000000000003A71
+t1341519149
+s14961
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpExtras/cpPulleyJoint.c
+c000000004FF5F4E20000000000001F11
+t1341519074
+s7953
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/cpSpaceSerializer.cpp
+c000000004FF5F4E200000000000060CD
+t1341519074
+s24781
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinystr.cpp
+c000000004FF5F4E20000000000000A2A
+t1341519074
+s2602
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxml.cpp
+c000000004FF5F4E20000000000008E53
+t1341519074
+s36435
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxmlerror.cpp
+c000000004FF5F4E200000000000006F4
+t1341519074
+s1780
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxmlparser.cpp
+c000000004FF5F4E20000000000009149
+t1341519074
+s37193
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/prefix/Prefix-iOS.pch
+c000000004FC0DF0600000000000003F2
+t1338040070
+s1010
+i<Availability.h>
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<GameKit/GameKit.h>
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+i<AudioToolbox/AudioToolbox.h>
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<objc/runtime.h>
+i<objc/message.h>
+i<algorithm>
+i<cassert>
+i<cfloat>
+i<climits>
+i<cmath>
+i<cstdarg>
+i<cstddef>
+i<cstdio>
+i<cstdlib>
+i<cstring>
+i<memory>
+i<new>
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/SpaceManager.mm
+r0
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/SpaceManagerCocos2d.m
+r0
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCNode.m
+r0
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCNodeImpl.m
+r0
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCSprite.m
+r0
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpConstraintNode.m
+r0
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpShapeNode.m
+r0
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpExtras/cpPulleyJoint.c
+r0
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/cpSpaceSerializer.cpp
+r0
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinystr.cpp
+r0
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxml.cpp
+r0
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxmlerror.cpp
+r0
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxmlparser.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies89b24f2e0e9fb641^d61c9c2e0e9fb641^---0#1#0#--18"Check dependencies36"C6B8D7C8-206B-4254-8EC5-54F4429D55AE-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/SpaceManager.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/SpaceManager.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s379522611.591493
+e379522612.349198
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/SpaceManager.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/SpaceManager.mm
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/SpaceManager.mm92b097330e9fb641^906959340e9fb641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/SpaceManager.mm0000000000000000^4062"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/SpaceManager.o libs/Chipmunk-SpaceManager/src/SpaceManager.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch armv7 -fmessage-length=0 -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -Warc-abi -Wno-c++11-extensions -DDEBUG -DCOCOS2D_DEBUG=1 -DCHIPMUNK_SPACEMANAGER -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/chipmunk-spacemanager-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk/include/chipmunk -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-comnkqzgqagijbbcxusyfjpcnmzm/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/SpaceManager.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/SpaceManager.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/SpaceManager.mm -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/SpaceManager.o36"79268A6E-B781-4DD6-B520-DA9E2637656F-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/SpaceManagerCocos2d.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/SpaceManagerCocos2d.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379522611.310094
+e379522611.586040
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/SpaceManagerCocos2d.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/SpaceManagerCocos2d.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/SpaceManagerCocos2d.ma69c4f330e9fb641^bf2b96330e9fb641^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/SpaceManagerCocos2d.m0000000000000000^3964"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/SpaceManagerCocos2d.o libs/Chipmunk-SpaceManager/src/ccExtras/SpaceManagerCocos2d.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -DCHIPMUNK_SPACEMANAGER -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/chipmunk-spacemanager-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk/include/chipmunk -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-amktvkubzucokyehpwwvhagewmqd/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/SpaceManagerCocos2d.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/SpaceManagerCocos2d.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/SpaceManagerCocos2d.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/SpaceManagerCocos2d.o36"81CBCF78-8E93-4A6F-B50B-3DF2B600AB60-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCNode.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCNode.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379522611.053096
+e379522611.277131
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCNode.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCNode.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCNode.m42cc0d330e9fb641^a6f246330e9fb641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCNode.m0000000000000000^3898"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCNode.o libs/Chipmunk-SpaceManager/src/ccExtras/cpCCNode.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -DCHIPMUNK_SPACEMANAGER -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/chipmunk-spacemanager-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk/include/chipmunk -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-amktvkubzucokyehpwwvhagewmqd/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCNode.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCNode.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCNode.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCNode.o36"1AA96D36-6240-4C0C-90B2-3E267F35D811-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCNodeImpl.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCNodeImpl.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379522611.082113
+e379522611.297457
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCNodeImpl.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCNodeImpl.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCNodeImpl.me04715330e9fb641^ee264c330e9fb641^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCNodeImpl.m0000000000000000^3922"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCNodeImpl.o libs/Chipmunk-SpaceManager/src/ccExtras/cpCCNodeImpl.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -DCHIPMUNK_SPACEMANAGER -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/chipmunk-spacemanager-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk/include/chipmunk -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-amktvkubzucokyehpwwvhagewmqd/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCNodeImpl.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCNodeImpl.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCNodeImpl.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCNodeImpl.o36"4D9529A5-18B9-43B0-8973-177866CD1898-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCSprite.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCSprite.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379522611.225258
+e379522611.408148
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCSprite.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCSprite.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCSprite.mc9e739330e9fb641^d97c68330e9fb641^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCSprite.m0000000000000000^3910"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCSprite.o libs/Chipmunk-SpaceManager/src/ccExtras/cpCCSprite.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -DCHIPMUNK_SPACEMANAGER -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/chipmunk-spacemanager-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk/include/chipmunk -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-amktvkubzucokyehpwwvhagewmqd/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCSprite.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCSprite.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpCCSprite.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpCCSprite.o36"5FC110BF-DDE0-40BD-BC6C-26CCE8747F3B-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpConstraintNode.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpConstraintNode.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379522611.278749
+e379522611.471909
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpConstraintNode.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpConstraintNode.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpConstraintNode.mbb9747330e9fb641^8dcf78330e9fb641^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpConstraintNode.m0000000000000000^3946"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpConstraintNode.o libs/Chipmunk-SpaceManager/src/ccExtras/cpConstraintNode.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -DCHIPMUNK_SPACEMANAGER -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/chipmunk-spacemanager-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk/include/chipmunk -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-amktvkubzucokyehpwwvhagewmqd/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpConstraintNode.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpConstraintNode.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpConstraintNode.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpConstraintNode.o36"21F275B7-3F96-4CD2-92E6-78AFE147CCE6-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpPulleyJoint.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpExtras/cpPulleyJoint.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s379522607.263795
+e379522607.459304
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpPulleyJoint.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpExtras/cpPulleyJoint.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpExtras/cpPulleyJoint.c51bf432f0e9fb641^6895752f0e9fb641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpExtras/cpPulleyJoint.c0000000000000000^3588"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpPulleyJoint.o libs/Chipmunk-SpaceManager/src/cpExtras/cpPulleyJoint.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG -DCOCOS2D_DEBUG=1 -DCHIPMUNK_SPACEMANAGER -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/chipmunk-spacemanager-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk/include/chipmunk -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bmuwsyvsvmmcjkgwkahevuqeelsa/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpPulleyJoint.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpPulleyJoint.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpExtras/cpPulleyJoint.c -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpPulleyJoint.o36"8E295CBB-D8B2-49F2-B03A-B3AF9B4ABCEE-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpShapeNode.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpShapeNode.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379522611.300304
+e379522611.588632
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpShapeNode.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpShapeNode.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpShapeNode.m501b4d330e9fb641^e0be96330e9fb641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpShapeNode.m0000000000000000^3916"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpShapeNode.o libs/Chipmunk-SpaceManager/src/ccExtras/cpShapeNode.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -DCHIPMUNK_SPACEMANAGER -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/chipmunk-spacemanager-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk/include/chipmunk -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-amktvkubzucokyehpwwvhagewmqd/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpShapeNode.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpShapeNode.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras/cpShapeNode.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpShapeNode.o36"6361797A-D636-404F-8424-BBFB271D5359-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpSpaceSerializer.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/cpSpaceSerializer.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s379522608.726973
+e379522610.603269
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpSpaceSerializer.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/cpSpaceSerializer.cpp
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/cpSpaceSerializer.cpp624cba300e9fb641^446e9a320e9fb641^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/cpSpaceSerializer.cpp0000000000000000^3780"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpSpaceSerializer.o libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/cpSpaceSerializer.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch armv7 -fmessage-length=0 -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG -DCOCOS2D_DEBUG=1 -DCHIPMUNK_SPACEMANAGER -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/chipmunk-spacemanager-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk/include/chipmunk -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-arnrbxsqqgayfxdvcumkfoqskfsf/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpSpaceSerializer.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpSpaceSerializer.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/cpSpaceSerializer.cpp -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/cpSpaceSerializer.o36"B7FDE3B0-7089-4BF9-A95E-4B5489A08C8E-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinystr.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinystr.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s379522608.726986
+e379522609.069389
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinystr.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinystr.cpp
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinystr.cpp984fba300e9fb641^a0c211310e9fb641^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinystr.cpp0000000000000000^3736"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinystr.o libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinystr.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch armv7 -fmessage-length=0 -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG -DCOCOS2D_DEBUG=1 -DCHIPMUNK_SPACEMANAGER -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/chipmunk-spacemanager-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk/include/chipmunk -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-arnrbxsqqgayfxdvcumkfoqskfsf/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinystr.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinystr.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinystr.cpp -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinystr.o36"B070E73C-A262-46A6-8161-098DC0B8EE91-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxml.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxml.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s379522611.450068
+e379522611.801988
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxml.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxml.cpp
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxml.cpp6d7373330e9fb641^9c4fcd330e9fb641^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxml.cpp0000000000000000^3736"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxml.o libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxml.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch armv7 -fmessage-length=0 -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG -DCOCOS2D_DEBUG=1 -DCHIPMUNK_SPACEMANAGER -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/chipmunk-spacemanager-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk/include/chipmunk -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-arnrbxsqqgayfxdvcumkfoqskfsf/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxml.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxml.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxml.cpp -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxml.o36"9071BD8E-3EDA-4316-BE5A-C1432D17EBDB-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxmlerror.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxmlerror.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s379522611.474633
+e379522611.596651
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxmlerror.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxmlerror.cpp
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxmlerror.cppedb879330e9fb641^d0d398330e9fb641^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxmlerror.cpp0000000000000000^3766"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxmlerror.o libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxmlerror.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch armv7 -fmessage-length=0 -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG -DCOCOS2D_DEBUG=1 -DCHIPMUNK_SPACEMANAGER -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/chipmunk-spacemanager-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk/include/chipmunk -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-arnrbxsqqgayfxdvcumkfoqskfsf/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxmlerror.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxmlerror.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxmlerror.cpp -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxmlerror.o36"3F1598A5-44BB-459F-8FE2-055E8BA44D0B-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxmlparser.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxmlparser.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s379522611.587343
+e379522611.877431
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxmlparser.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxmlparser.cpp
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxmlparser.cpp5c9396330e9fb641^a59fe0330e9fb641^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxmlparser.cpp0000000000000000^3772"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxmlparser.o libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxmlparser.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch armv7 -fmessage-length=0 -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG -DCOCOS2D_DEBUG=1 -DCHIPMUNK_SPACEMANAGER -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/chipmunk-spacemanager-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk/include/chipmunk -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-arnrbxsqqgayfxdvcumkfoqskfsf/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxmlparser.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxmlparser.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml/tinyxmlparser.cpp -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/tinyxmlparser.o36"FC470C89-5F31-4C48-A6E3-B2C2FC661DE0-
+
+CLibtool /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libchipmunk-spacemanager-ios.a normal armv7
+s379522612.425851
+e379522612.544799
+r1
+xLibtool
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libchipmunk-spacemanager-ios.a
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Libtool /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libchipmunk-spacemanager-ios.a normal armv7448a75340e9fb641^85798b340e9fb641^---0#0#0#--1460"Libtool /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libchipmunk-spacemanager-ios.a normal armv7    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -L/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -L/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/../__Kobold2D__/libs/iSimulateSDK -L/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/../__Kobold2D__/libs/GoogleAdMobAdsSDK -L/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/../__Kobold2D__/libs/iSimulateSDK -L/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/../__Kobold2D__/libs/GoogleAdMobAdsSDK -filelist /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/Objects-normal/armv7/chipmunk-spacemanager-ios.LinkFileList -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libchipmunk-spacemanager-ios.a36"C9463C20-7F7A-4EE5-A9C1-DDCD54E53249-
+
+CProcessPCH /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-amktvkubzucokyehpwwvhagewmqd/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379522606.621270
+e379522608.725432
+r1
+xProcessPCH
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-amktvkubzucokyehpwwvhagewmqd/Prefix-iOS.pch.pth
+xprefix/Prefix-iOS.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile prefix/Prefix-iOS.pchae2e9f2e0e9fb641^3db6b9300e9fb641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/prefix/Prefix-iOS.pch0000000000000000^3579"ProcessPCH /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-amktvkubzucokyehpwwvhagewmqd/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -DCHIPMUNK_SPACEMANAGER -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/chipmunk-spacemanager-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk/include/chipmunk -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-amktvkubzucokyehpwwvhagewmqd/Prefix-iOS.pch.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/prefix/Prefix-iOS.pch -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-amktvkubzucokyehpwwvhagewmqd/Prefix-iOS.pch.pth -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-amktvkubzucokyehpwwvhagewmqd/Prefix-iOS.pch.d36"4B6A6025-E80F-438A-9786-9BE6A3AEDBC5-
+
+CProcessPCH /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bmuwsyvsvmmcjkgwkahevuqeelsa/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s379522607.031394
+e379522607.060961
+r1
+xProcessPCH
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bmuwsyvsvmmcjkgwkahevuqeelsa/Prefix-iOS.pch.pth
+xprefix/Prefix-iOS.pch
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile prefix/Prefix-iOS.pch452a082f0e9fb641^fe9b0f2f0e9fb641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/prefix/Prefix-iOS.pch0000000000000000^3239"ProcessPCH /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bmuwsyvsvmmcjkgwkahevuqeelsa/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c-header -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG -DCOCOS2D_DEBUG=1 -DCHIPMUNK_SPACEMANAGER -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/chipmunk-spacemanager-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk/include/chipmunk -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bmuwsyvsvmmcjkgwkahevuqeelsa/Prefix-iOS.pch.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/prefix/Prefix-iOS.pch -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bmuwsyvsvmmcjkgwkahevuqeelsa/Prefix-iOS.pch.pth -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bmuwsyvsvmmcjkgwkahevuqeelsa/Prefix-iOS.pch.d36"263D83B4-EBC3-40E3-9EA3-250CA07749EB-
+
+CProcessPCH /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Index/PrecompiledHeaders/Prefix-iOS-azjyxkiqfionvkdkeioddkzutpms_ast/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Index/PrecompiledHeaders/Prefix-iOS-bczfuviagaiyzdfcnviazgpimsxb_ast/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-arnrbxsqqgayfxdvcumkfoqskfsf/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s379522607.460806
+e379522608.099702
+r1
+xProcessPCH++
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-arnrbxsqqgayfxdvcumkfoqskfsf/Prefix-iOS.pch.pth
+xprefix/Prefix-iOS.pch
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile prefix/Prefix-iOS.pche82d762f0e9fb641^cf8519300e9fb641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/prefix/Prefix-iOS.pch0000000000000000^3387"ProcessPCH++ /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-arnrbxsqqgayfxdvcumkfoqskfsf/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch armv7 -fmessage-length=0 -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG -DCOCOS2D_DEBUG=1 -DCHIPMUNK_SPACEMANAGER -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/chipmunk-spacemanager-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk/include/chipmunk -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-arnrbxsqqgayfxdvcumkfoqskfsf/Prefix-iOS.pch.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/prefix/Prefix-iOS.pch -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-arnrbxsqqgayfxdvcumkfoqskfsf/Prefix-iOS.pch.pth -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-arnrbxsqqgayfxdvcumkfoqskfsf/Prefix-iOS.pch.d36"0634D3E8-F791-47AD-A510-82A1BD130941-
+
+CProcessPCH++ /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-comnkqzgqagijbbcxusyfjpcnmzm/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s379522608.102677
+e379522610.033038
+r1
+xProcessPCH++
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-comnkqzgqagijbbcxusyfjpcnmzm/Prefix-iOS.pch.pth
+xprefix/Prefix-iOS.pch
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile prefix/Prefix-iOS.pch35ed1a300e9fb641^827508320e9fb641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/prefix/Prefix-iOS.pch0000000000000000^3737"ProcessPCH++ /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-comnkqzgqagijbbcxusyfjpcnmzm/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch armv7 -fmessage-length=0 -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -Warc-abi -Wno-c++11-extensions -DDEBUG -DCOCOS2D_DEBUG=1 -DCHIPMUNK_SPACEMANAGER -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/chipmunk-spacemanager-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/Chipmunk/include/chipmunk -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/chipmunk-spacemanager-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-comnkqzgqagijbbcxusyfjpcnmzm/Prefix-iOS.pch.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/prefix/Prefix-iOS.pch -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-comnkqzgqagijbbcxusyfjpcnmzm/Prefix-iOS.pch.pth -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-comnkqzgqagijbbcxusyfjpcnmzm/Prefix-iOS.pch.d36"9FD89BB8-1A89-4F71-827D-A73D60AE9EDE-
+
+CProcessPCH++ /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Index/PrecompiledHeaders/Prefix-iOS-gvwsuthiujqxupbkwdaoqxcdmuwe_ast/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Index/PrecompiledHeaders/Prefix-iOS-hesntlxzvqyfmzfovqfydpkrtxdr_ast/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

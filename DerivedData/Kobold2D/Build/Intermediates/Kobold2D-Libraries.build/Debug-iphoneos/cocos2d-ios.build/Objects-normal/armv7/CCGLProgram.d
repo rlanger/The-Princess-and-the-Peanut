@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGLProgram.m \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d/CCGLProgram.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccMacros.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccConfig.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/CCGL.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCGLView.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS/CCESRenderer.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d/ccGLStateCache.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/CCFileUtils.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/../ccTypes.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/uthash.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support/OpenGL_Internal.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include/kazmath/GL/matrix.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include/kazmath/GL/../mat4.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include/kazmath/GL/../utility.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include/kazmath/GL/../vec3.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include/kazmath/kazmath.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include/kazmath/GL/../vec2.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include/kazmath/GL/../mat3.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include/kazmath/GL/../quaternion.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include/kazmath/GL/../plane.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include/kazmath/GL/../aabb.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include/kazmath/GL/../ray2.h

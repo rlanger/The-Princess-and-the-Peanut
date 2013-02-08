@@ -1,0 +1,330 @@
+Tsneakyinput-ios
+v5
+r1
+cCheck dependencies
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/ColoredCircleSprite.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/ColoredCircleSprite.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/ColoredSquareSprite.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/ColoredSquareSprite.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyButton.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyButtonSkinnedBase.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyButtonSkinnedBase.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystick.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystick.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedBase.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedBase.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedDPadExample.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedDPadExample.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedJoystickExample.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedJoystickExample.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libsneakyinput-ios.a normal armv7
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk
+c00000000503C83D40000000000000132
+t1346143188
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c0000000050C7ED960000000000000944
+t1355279766
+s2372
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c0000000050C7ED950000000000000A21
+t1355279765
+s2593
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050C7ED9800000000000015F7
+t1355279768
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c0000000050C7ED9900000000000005C2
+t1355279769
+s1474
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c0000000050C7ED9C00000000000064FD
+t1355279772
+s25853
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c0000000050C7ED9C0000000000001F45
+t1355279772
+s8005
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000050C7ED9E0000000000000E8D
+t1355279774
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/include/Availability.h
+c0000000050C7EDA60000000000001B54
+t1355279782
+s6996
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/include/objc/message.h
+c0000000050C7EDA700000000000023DB
+t1355279783
+s9179
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/include/objc/runtime.h
+c0000000050C7EDA7000000000000672A
+t1355279783
+s26410
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/ColoredCircleSprite.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/ColoredSquareSprite.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyButton.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyButtonSkinnedBase.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystick.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedBase.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedDPadExample.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedJoystickExample.o
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/sneakyinput-ios.LinkFileList
+c0000000050EED6B200000000000005DC
+t1357829810
+s1500
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bfdilwoipnoguvckknaobyqtjzpz/Prefix-iOS.pch.pth
+t1357829808
+s6624904
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libsneakyinput-ios.a
+t2
+s0
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/ColoredCircleSprite.m
+c00000000501197BA0000000000000F28
+t1343330234
+s3880
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/ColoredSquareSprite.m
+c00000000501197BA0000000000000DBE
+t1343330234
+s3518
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.m
+c000000004F803F8E0000000000000B54
+t1333804942
+s2900
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyButtonSkinnedBase.m
+c000000004F803F820000000000000C40
+t1333804930
+s3136
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystick.m
+c000000004F803F9F0000000000001171
+t1333804959
+s4465
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedBase.m
+c000000004F803F8B000000000000085A
+t1333804939
+s2138
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedDPadExample.m
+c000000004F803F9700000000000002D4
+t1333804951
+s724
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedJoystickExample.m
+c000000004F803F7E000000000000031D
+t1333804926
+s797
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/prefix/Prefix-iOS.pch
+c000000004FC0DF0600000000000003F2
+t1338040070
+s1010
+i<Availability.h>
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<GameKit/GameKit.h>
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+i<AudioToolbox/AudioToolbox.h>
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<objc/runtime.h>
+i<objc/message.h>
+i<algorithm>
+i<cassert>
+i<cfloat>
+i<climits>
+i<cmath>
+i<cstdarg>
+i<cstddef>
+i<cstdio>
+i<cstdlib>
+i<cstring>
+i<memory>
+i<new>
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/ColoredCircleSprite.m
+r0
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/ColoredSquareSprite.m
+r0
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.m
+r0
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyButtonSkinnedBase.m
+r0
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystick.m
+r0
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedBase.m
+r0
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedDPadExample.m
+r0
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedJoystickExample.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesc555ad320e9fb641^e140dc320e9fb641^---0#1#0#--18"Check dependencies36"E929169A-51AA-449F-8F5F-855091E97A5B-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/ColoredCircleSprite.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/ColoredCircleSprite.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379522611.803621
+e379522611.998860
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/ColoredCircleSprite.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/ColoredCircleSprite.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/ColoredCircleSprite.m9aeecd330e9fb641^30bbff330e9fb641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/ColoredCircleSprite.m0000000000000000^3734"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/ColoredCircleSprite.o libs/SneakyInput/Classes/ColoredCircleSprite.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/sneakyinput-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bfdilwoipnoguvckknaobyqtjzpz/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/ColoredCircleSprite.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/ColoredCircleSprite.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/ColoredCircleSprite.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/ColoredCircleSprite.o36"33590729-4CAE-4FB3-B1B5-0A2511ED11C8-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/ColoredSquareSprite.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/ColoredSquareSprite.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379522611.812497
+e379522611.994388
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/ColoredSquareSprite.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/ColoredSquareSprite.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/ColoredSquareSprite.m7233d0330e9fb641^eca0fe330e9fb641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/ColoredSquareSprite.m0000000000000000^3734"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/ColoredSquareSprite.o libs/SneakyInput/Classes/ColoredSquareSprite.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/sneakyinput-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bfdilwoipnoguvckknaobyqtjzpz/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/ColoredSquareSprite.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/ColoredSquareSprite.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/ColoredSquareSprite.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/ColoredSquareSprite.o36"666A18E2-B2D9-4612-9C8E-CC24ABE81354-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyButton.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379522611.881939
+e379522612.113240
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyButton.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.meecde7330e9fb641^e3fd1c340e9fb641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.m0000000000000000^3692"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyButton.o libs/SneakyInput/Classes/SneakyButton.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/sneakyinput-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bfdilwoipnoguvckknaobyqtjzpz/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyButton.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyButton.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyButton.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyButton.o36"623A1433-4F35-4259-902B-96845EBA1392-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyButtonSkinnedBase.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyButtonSkinnedBase.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379522611.996853
+e379522612.150717
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyButtonSkinnedBase.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyButtonSkinnedBase.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyButtonSkinnedBase.m4678ff330e9fb641^fb9526340e9fb641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyButtonSkinnedBase.m0000000000000000^3758"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyButtonSkinnedBase.o libs/SneakyInput/Classes/SneakyButtonSkinnedBase.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/sneakyinput-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bfdilwoipnoguvckknaobyqtjzpz/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyButtonSkinnedBase.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyButtonSkinnedBase.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyButtonSkinnedBase.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyButtonSkinnedBase.o36"A68FB8C9-7F6E-4CA1-9CE0-8CDE2A79DFC1-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystick.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystick.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379522612.000255
+e379522612.224184
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystick.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystick.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystick.m564900340e9fb641^846439340e9fb641^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystick.m0000000000000000^3704"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystick.o libs/SneakyInput/Classes/SneakyJoystick.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/sneakyinput-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bfdilwoipnoguvckknaobyqtjzpz/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystick.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystick.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystick.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystick.o36"8881C74B-FC5F-44FA-AC4C-40CFB4C62D29-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedBase.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedBase.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379522612.114711
+e379522612.248302
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedBase.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedBase.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedBase.m53961d340e9fb641^c9903f340e9fb641^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedBase.m0000000000000000^3770"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedBase.o libs/SneakyInput/Classes/SneakyJoystickSkinnedBase.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/sneakyinput-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bfdilwoipnoguvckknaobyqtjzpz/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedBase.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedBase.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedBase.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedBase.o36"DAF450AE-CD19-442C-934C-11382CAF488E-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedDPadExample.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedDPadExample.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379522612.152174
+e379522612.292743
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedDPadExample.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedDPadExample.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedDPadExample.m982f27340e9fb641^26fc4a340e9fb641^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedDPadExample.m0000000000000000^3812"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedDPadExample.o libs/SneakyInput/Classes/SneakyJoystickSkinnedDPadExample.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/sneakyinput-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bfdilwoipnoguvckknaobyqtjzpz/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedDPadExample.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedDPadExample.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedDPadExample.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedDPadExample.o36"1ECD5B22-4C42-4297-9320-FA5A7F35E9E8-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedJoystickExample.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedJoystickExample.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379522612.226468
+e379522612.349089
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedJoystickExample.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedJoystickExample.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedJoystickExample.m1e353a340e9fb641^c45d59340e9fb641^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedJoystickExample.m0000000000000000^3836"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedJoystickExample.o libs/SneakyInput/Classes/SneakyJoystickSkinnedJoystickExample.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/sneakyinput-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bfdilwoipnoguvckknaobyqtjzpz/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedJoystickExample.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedJoystickExample.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/SneakyInput/Classes/SneakyJoystickSkinnedJoystickExample.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/SneakyJoystickSkinnedJoystickExample.o36"1202BD46-B4A0-477E-9875-A5F2FCA26680-
+
+CLibtool /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libsneakyinput-ios.a normal armv7
+s379522612.609641
+e379522612.690821
+r1
+xLibtool
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libsneakyinput-ios.a
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Libtool /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libsneakyinput-ios.a normal armv746459c340e9fb641^86e4b0340e9fb641^---0#0#0#--1420"Libtool /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libsneakyinput-ios.a normal armv7    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -L/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -L/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/../__Kobold2D__/libs/iSimulateSDK -L/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/../__Kobold2D__/libs/GoogleAdMobAdsSDK -L/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/../__Kobold2D__/libs/iSimulateSDK -L/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/../__Kobold2D__/libs/GoogleAdMobAdsSDK -filelist /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/sneakyinput-ios.build/Objects-normal/armv7/sneakyinput-ios.LinkFileList -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libsneakyinput-ios.a36"D2C05F3F-3616-41C8-97CB-11F8D6D2C87C-
+
+CProcessPCH /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bfdilwoipnoguvckknaobyqtjzpz/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Index/PrecompiledHeaders/Prefix-iOS-cmpjmjlmunebzffvnwilyhifwucr_ast/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

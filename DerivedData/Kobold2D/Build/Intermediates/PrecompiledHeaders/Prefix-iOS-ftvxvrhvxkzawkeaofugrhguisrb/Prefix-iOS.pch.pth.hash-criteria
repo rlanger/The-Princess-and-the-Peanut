@@ -1,0 +1,23 @@
+Contents of /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/prefix/Prefix-iOS.pch
+4.1 (tags/Apple/clang-421.11.66) (based on LLVM 3.1svn)
+i386-apple-darwin11.4.2
+-x
+c
+-arch
+i386
+-fmessage-length=0
+-std=gnu99
+-fpascal-strings
+-O0
+-DDEBUG
+-DCOCOS2D_DEBUG=1
+-DCHIPMUNK_SPACEMANAGER
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+-fexceptions
+-fasm-blocks
+-ffast-math
+-g
+-fvisibility=hidden
+-mios-simulator-version-min=4.3
+SDK_PRODUCT_BUILD_VERSION=10A403

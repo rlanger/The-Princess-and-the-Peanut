@@ -1,0 +1,164 @@
+Tcocos3d-ios
+v5
+r1
+cCheck dependencies
+cProcessPCH /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bfdilwoipnoguvckknaobyqtjzpz/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/cocos3d-ios.build/Objects-normal/armv7/Cocos3DDummyClass.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos3d/cocos3d/Cocos3DDummyClass.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libcocos3d-ios.a normal armv7
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk
+c00000000503C83D40000000000000132
+t1346143188
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c0000000050C7ED960000000000000944
+t1355279766
+s2372
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c0000000050C7ED950000000000000A21
+t1355279765
+s2593
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050C7ED9800000000000015F7
+t1355279768
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c0000000050C7ED9900000000000005C2
+t1355279769
+s1474
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c0000000050C7ED9C00000000000064FD
+t1355279772
+s25853
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c0000000050C7ED9C0000000000001F45
+t1355279772
+s8005
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000050C7ED9E0000000000000E8D
+t1355279774
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/include/Availability.h
+c0000000050C7EDA60000000000001B54
+t1355279782
+s6996
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/include/objc/message.h
+c0000000050C7EDA700000000000023DB
+t1355279783
+s9179
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/include/objc/runtime.h
+c0000000050C7EDA7000000000000672A
+t1355279783
+s26410
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/cocos3d-ios.build/Objects-normal/armv7/Cocos3DDummyClass.o
+t1357829809
+s2980
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/cocos3d-ios.build/Objects-normal/armv7/cocos3d-ios.LinkFileList
+c0000000050EED6AE00000000000000B2
+t1357829806
+s178
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bfdilwoipnoguvckknaobyqtjzpz/Prefix-iOS.pch.pth
+t1357829808
+s6624904
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libcocos3d-ios.a
+t1357829809
+s3256
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos3d/cocos3d/Cocos3DDummyClass.h
+c000000004F803F9000000000000002FB
+t1333804944
+s763
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos3d/cocos3d/Cocos3DDummyClass.m
+c000000004F803F9000000000000000EC
+t1333804944
+s236
+
+N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/prefix/Prefix-iOS.pch
+c000000004FC0DF0600000000000003F2
+t1338040070
+s1010
+i<Availability.h>
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<GameKit/GameKit.h>
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+i<AudioToolbox/AudioToolbox.h>
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<objc/runtime.h>
+i<objc/message.h>
+i<algorithm>
+i<cassert>
+i<cfloat>
+i<climits>
+i<cmath>
+i<cstdarg>
+i<cstddef>
+i<cstdio>
+i<cstdlib>
+i<cstring>
+i<memory>
+i<new>
+
+CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos3d/cocos3d/Cocos3DDummyClass.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa8df59c5e4c2b641^f6b46bc6e4c2b641^---0#1#0#--18"Check dependencies36"45F4E3AA-306A-49A0-8D24-53E4A168B509-
+
+CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/cocos3d-ios.build/Objects-normal/armv7/Cocos3DDummyClass.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos3d/cocos3d/Cocos3DDummyClass.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379522609.030271
+e379522609.096154
+r1
+xCompileC
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/cocos3d-ios.build/Objects-normal/armv7/Cocos3DDummyClass.o
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos3d/cocos3d/Cocos3DDummyClass.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos3d/cocos3d/Cocos3DDummyClass.mb4e607310e9fb641^849f18310e9fb641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos3d/cocos3d/Cocos3DDummyClass.m0000000000000000^3777"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/cocos3d-ios.build/Objects-normal/armv7/Cocos3DDummyClass.o libs/cocos3d/cocos3d/Cocos3DDummyClass.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/cocos3d-ios.build/cocos3d-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/cocos3d-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/cocos3d-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bfdilwoipnoguvckknaobyqtjzpz/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/cocos3d-ios.build/Objects-normal/armv7/Cocos3DDummyClass.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/cocos3d-ios.build/Objects-normal/armv7/Cocos3DDummyClass.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos3d/cocos3d/Cocos3DDummyClass.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/cocos3d-ios.build/Objects-normal/armv7/Cocos3DDummyClass.o36"95EC37DA-9D66-4829-9CBD-6D119ED0421D-
+
+CLibtool /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libcocos3d-ios.a normal armv7
+s379522609.184718
+e379522609.482581
+r1
+xLibtool
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libcocos3d-ios.a
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Libtool /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libcocos3d-ios.a normal armv744692f310e9fb641^698b7b310e9fb641^---0#0#0#--1404"Libtool /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libcocos3d-ios.a normal armv7    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -L/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos -L/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/../__Kobold2D__/libs/iSimulateSDK -L/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/../__Kobold2D__/libs/GoogleAdMobAdsSDK -L/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/../__Kobold2D__/libs/iSimulateSDK -L/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/../__Kobold2D__/libs/GoogleAdMobAdsSDK -filelist /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/cocos3d-ios.build/Objects-normal/armv7/cocos3d-ios.LinkFileList -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/libcocos3d-ios.a36"9715503B-FAC0-495F-882F-0561A949829F-
+
+CProcessPCH /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bfdilwoipnoguvckknaobyqtjzpz/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379522606.460034
+e379522608.725515
+r1
+xProcessPCH
+x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bfdilwoipnoguvckknaobyqtjzpz/Prefix-iOS.pch.pth
+xprefix/Prefix-iOS.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile prefix/Prefix-iOS.pchcbf2752e0e9fb641^7ac7b9300e9fb641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/prefix/Prefix-iOS.pch0000000000000000^3498"ProcessPCH /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bfdilwoipnoguvckknaobyqtjzpz/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/cocos3d-ios.build/cocos3d-ios.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/cocos3d-ios.build/DerivedSources/armv7 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphoneos/cocos3d-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bfdilwoipnoguvckknaobyqtjzpz/Prefix-iOS.pch.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/prefix/Prefix-iOS.pch -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bfdilwoipnoguvckknaobyqtjzpz/Prefix-iOS.pch.pth -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-bfdilwoipnoguvckknaobyqtjzpz/Prefix-iOS.pch.d36"2245D792-6FCC-4E44-9EC8-A7ABECD145B3-
+
+CProcessPCH /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Index/PrecompiledHeaders/Prefix-iOS-cmpjmjlmunebzffvnwilyhifwucr_ast/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
