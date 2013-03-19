@@ -7,9 +7,6 @@
 
 #import "CCAnimationExtensions.h"
 
-#import "FixCategoryBug.h"
-FIX_CATEGORY_BUG(CCAnimation)
-
 @implementation CCAnimation (KoboldExtensions)
 
 +(id) animationWithName:(NSString*)name format:(NSString*)format numFrames:(int)numFrames firstIndex:(int)firstIndex delay:(float)delay

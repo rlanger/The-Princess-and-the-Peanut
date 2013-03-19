@@ -10,7 +10,9 @@
 
 @implementation SceneManager
 
-
++ (void) popLayer {
+    [[CCDirector sharedDirector] popScene];
+}
 
 + (void) goNavLayer {
     
@@ -20,10 +22,32 @@
     
 }
 
++ (void) goCombatLayer {
+    
+    CCScene *scene = [CCScene node];
+    [scene addChild:[CombatLayer nodeWithGameLevel:1]];
+    [[CCDirector sharedDirector] replaceScene:scene];
+
+}
+
++ (void) pushInventoryLayer {
+    CCScene *scene = [CCScene node];
+    [scene addChild:[InventoryLayer node]];
+    [[CCDirector sharedDirector] pushScene:scene];
+}
+
 + (void) goInventoryLayer {
     
     CCScene *scene = [CCScene node];
     [scene addChild:[InventoryLayer node]];
+    [[CCDirector sharedDirector] replaceScene:scene];
+    
+}
+
++ (void) goMenuLayer {
+    
+    CCScene *scene = [CCScene node];
+    [scene addChild:[MenuLayer node]];
     [[CCDirector sharedDirector] replaceScene:scene];
     
 }
@@ -41,7 +65,7 @@
 
 + (void) goString: (NSString *)layerName {    
     if ([layerName isEqualToString:@"Castle"]) {
-        [self goNavLayer];
+        [self goCombatLayer];
     }
 }
 

@@ -62,13 +62,20 @@
 		048CB172169E2EE8005CE213 /* SceneModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 048CB15C169E2EE8005CE213 /* SceneModel.m */; };
 		048CB173169E2EE8005CE213 /* SceneView.m in Sources */ = {isa = PBXBuildFile; fileRef = 048CB15E169E2EE8005CE213 /* SceneView.m */; };
 		048CB174169E2EE8005CE213 /* MovementLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 048CB160169E2EE8005CE213 /* MovementLayer.m */; };
-		048CB175169E2EE8005CE213 /* NavLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 048CB162169E2EE8005CE213 /* NavLayer.m */; };
-		048CB176169E2EE8005CE213 /* NavView.m in Sources */ = {isa = PBXBuildFile; fileRef = 048CB164169E2EE8005CE213 /* NavView.m */; };
-		048CB177169E2EE8005CE213 /* NavModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 048CB166169E2EE8005CE213 /* NavModel.m */; };
+		048CB175169E2EE8005CE213 /* CombatLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 048CB162169E2EE8005CE213 /* CombatLayer.m */; };
+		048CB176169E2EE8005CE213 /* CombatView.m in Sources */ = {isa = PBXBuildFile; fileRef = 048CB164169E2EE8005CE213 /* CombatView.m */; };
+		048CB177169E2EE8005CE213 /* CombatModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 048CB166169E2EE8005CE213 /* CombatModel.m */; };
 		048CB178169E2EE8005CE213 /* Model.m in Sources */ = {isa = PBXBuildFile; fileRef = 048CB168169E2EE8005CE213 /* Model.m */; };
 		049770DE169E594D009B5B96 /* Inventory.m in Sources */ = {isa = PBXBuildFile; fileRef = 049770D9169E594D009B5B96 /* Inventory.m */; };
 		049770DF169E594D009B5B96 /* FoodItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 049770DB169E594D009B5B96 /* FoodItem.m */; };
 		049770E0169E594D009B5B96 /* InventoryLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 049770DD169E594D009B5B96 /* InventoryLayer.m */; };
+		04F59D6E16DC470E000D312B /* MenuLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F59D6D16DC470E000D312B /* MenuLayer.m */; };
+		04F59D7516DC5025000D312B /* NavLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F59D7016DC5024000D312B /* NavLayer.m */; };
+		04F59D7616DC5025000D312B /* NavModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F59D7216DC5025000D312B /* NavModel.m */; };
+		04F59D7716DC5025000D312B /* NavView.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F59D7416DC5025000D312B /* NavView.m */; };
+		04F59D7916DC5FC0000D312B /* palace.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04F59D7816DC5FC0000D312B /* palace.jpg */; };
+		04F59D7B16DC6A73000D312B /* city-palace-interior.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04F59D7A16DC6A73000D312B /* city-palace-interior.jpg */; };
+		04F59D7D16DC6BE0000D312B /* saint-petersburg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04F59D7C16DC6BE0000D312B /* saint-petersburg.jpg */; };
 		DC1BE6A014F417CC00F49D25 /* Ubuntu-B.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DC1BE68C14F417CC00F49D25 /* Ubuntu-B.ttf */; };
 		DC1BE6A114F417CC00F49D25 /* Ubuntu-BI.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DC1BE68D14F417CC00F49D25 /* Ubuntu-BI.ttf */; };
 		DC1BE6A214F417CC00F49D25 /* Ubuntu-C.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DC1BE68E14F417CC00F49D25 /* Ubuntu-C.ttf */; };
@@ -131,6 +138,7 @@
 		0409A88F16B5F28E0019BB2C /* Global.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Global.m; sourceTree = "<group>"; };
 		0409A89116BAC69A0019BB2C /* SceneManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SceneManager.h; sourceTree = "<group>"; };
 		0409A89216BAC69B0019BB2C /* SceneManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SceneManager.m; sourceTree = "<group>"; };
+		0450337816CAD82600458B7C /* CWLSynthesizeSingleton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = CWLSynthesizeSingleton.h; path = ../CWLSynthesizeSingleton.h; sourceTree = "<group>"; };
 		0462F6EA16C2CB2400A94BBD /* Door.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Door.h; sourceTree = "<group>"; };
 		0462F6EB16C2CB2400A94BBD /* Door.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Door.m; sourceTree = "<group>"; };
 		0462F6EE16C2D06500A94BBD /* castle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = castle.png; sourceTree = "<group>"; };
@@ -223,12 +231,12 @@
 		048CB15E169E2EE8005CE213 /* SceneView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SceneView.m; sourceTree = "<group>"; };
 		048CB15F169E2EE8005CE213 /* MovementLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MovementLayer.h; sourceTree = "<group>"; };
 		048CB160169E2EE8005CE213 /* MovementLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MovementLayer.m; sourceTree = "<group>"; };
-		048CB161169E2EE8005CE213 /* NavLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavLayer.h; sourceTree = "<group>"; };
-		048CB162169E2EE8005CE213 /* NavLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavLayer.m; sourceTree = "<group>"; };
-		048CB163169E2EE8005CE213 /* NavView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavView.h; sourceTree = "<group>"; };
-		048CB164169E2EE8005CE213 /* NavView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavView.m; sourceTree = "<group>"; };
-		048CB165169E2EE8005CE213 /* NavModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavModel.h; sourceTree = "<group>"; };
-		048CB166169E2EE8005CE213 /* NavModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavModel.m; sourceTree = "<group>"; };
+		048CB161169E2EE8005CE213 /* CombatLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CombatLayer.h; sourceTree = "<group>"; };
+		048CB162169E2EE8005CE213 /* CombatLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CombatLayer.m; sourceTree = "<group>"; };
+		048CB163169E2EE8005CE213 /* CombatView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CombatView.h; sourceTree = "<group>"; };
+		048CB164169E2EE8005CE213 /* CombatView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CombatView.m; sourceTree = "<group>"; };
+		048CB165169E2EE8005CE213 /* CombatModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CombatModel.h; sourceTree = "<group>"; };
+		048CB166169E2EE8005CE213 /* CombatModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CombatModel.m; sourceTree = "<group>"; };
 		048CB167169E2EE8005CE213 /* Model.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Model.h; sourceTree = "<group>"; };
 		048CB168169E2EE8005CE213 /* Model.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Model.m; sourceTree = "<group>"; };
 		049770D8169E594D009B5B96 /* Inventory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Inventory.h; sourceTree = "<group>"; };
@@ -237,6 +245,17 @@
 		049770DB169E594D009B5B96 /* FoodItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FoodItem.m; sourceTree = "<group>"; };
 		049770DC169E594D009B5B96 /* InventoryLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InventoryLayer.h; sourceTree = "<group>"; };
 		049770DD169E594D009B5B96 /* InventoryLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InventoryLayer.m; sourceTree = "<group>"; };
+		04F59D6C16DC46FF000D312B /* MenuLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MenuLayer.h; path = Projectfiles/MenuLayer.h; sourceTree = "<group>"; };
+		04F59D6D16DC470E000D312B /* MenuLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MenuLayer.m; path = Projectfiles/MenuLayer.m; sourceTree = "<group>"; };
+		04F59D6F16DC5024000D312B /* NavLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavLayer.h; sourceTree = "<group>"; };
+		04F59D7016DC5024000D312B /* NavLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavLayer.m; sourceTree = "<group>"; };
+		04F59D7116DC5025000D312B /* NavModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavModel.h; sourceTree = "<group>"; };
+		04F59D7216DC5025000D312B /* NavModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavModel.m; sourceTree = "<group>"; };
+		04F59D7316DC5025000D312B /* NavView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavView.h; sourceTree = "<group>"; };
+		04F59D7416DC5025000D312B /* NavView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavView.m; sourceTree = "<group>"; };
+		04F59D7816DC5FC0000D312B /* palace.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = palace.jpg; sourceTree = "<group>"; };
+		04F59D7A16DC6A73000D312B /* city-palace-interior.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "city-palace-interior.jpg"; sourceTree = "<group>"; };
+		04F59D7C16DC6BE0000D312B /* saint-petersburg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "saint-petersburg.jpg"; sourceTree = "<group>"; };
 		DC1BE68614F417CC00F49D25 /* copyright.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = copyright.txt; sourceTree = "<group>"; };
 		DC1BE68914F417CC00F49D25 /* LICENCE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENCE.txt; sourceTree = "<group>"; };
 		DC1BE68C14F417CC00F49D25 /* Ubuntu-B.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-B.ttf"; sourceTree = "<group>"; };
@@ -416,6 +435,18 @@
 		048CB147169E2ED6005CE213 /* GameWorld */ = {
 			isa = PBXGroup;
 			children = (
+				04F59D6F16DC5024000D312B /* NavLayer.h */,
+				04F59D7016DC5024000D312B /* NavLayer.m */,
+				04F59D7116DC5025000D312B /* NavModel.h */,
+				04F59D7216DC5025000D312B /* NavModel.m */,
+				04F59D7316DC5025000D312B /* NavView.h */,
+				04F59D7416DC5025000D312B /* NavView.m */,
+				048CB161169E2EE8005CE213 /* CombatLayer.h */,
+				048CB162169E2EE8005CE213 /* CombatLayer.m */,
+				048CB163169E2EE8005CE213 /* CombatView.h */,
+				048CB164169E2EE8005CE213 /* CombatView.m */,
+				048CB165169E2EE8005CE213 /* CombatModel.h */,
+				048CB166169E2EE8005CE213 /* CombatModel.m */,
 				048CB148169E2EE8005CE213 /* TouchableSprite.h */,
 				048CB149169E2EE8005CE213 /* TouchableSprite.m */,
 				048CB14A169E2EE8005CE213 /* Helpers.h */,
@@ -441,12 +472,6 @@
 				048CB15E169E2EE8005CE213 /* SceneView.m */,
 				048CB15F169E2EE8005CE213 /* MovementLayer.h */,
 				048CB160169E2EE8005CE213 /* MovementLayer.m */,
-				048CB161169E2EE8005CE213 /* NavLayer.h */,
-				048CB162169E2EE8005CE213 /* NavLayer.m */,
-				048CB163169E2EE8005CE213 /* NavView.h */,
-				048CB164169E2EE8005CE213 /* NavView.m */,
-				048CB165169E2EE8005CE213 /* NavModel.h */,
-				048CB166169E2EE8005CE213 /* NavModel.m */,
 				048CB167169E2EE8005CE213 /* Model.h */,
 				048CB168169E2EE8005CE213 /* Model.m */,
 				0409A88716B1E30D0019BB2C /* FoodSprite.h */,
@@ -460,6 +485,7 @@
 		049770D6169E5931009B5B96 /* Inventory */ = {
 			isa = PBXGroup;
 			children = (
+				0450337816CAD82600458B7C /* CWLSynthesizeSingleton.h */,
 				049770D8169E594D009B5B96 /* Inventory.h */,
 				049770D9169E594D009B5B96 /* Inventory.m */,
 				049770DA169E594D009B5B96 /* FoodItem.h */,
@@ -468,6 +494,16 @@
 				049770DD169E594D009B5B96 /* InventoryLayer.m */,
 			);
 			name = Inventory;
+			sourceTree = "<group>";
+		};
+		04DDC2E516D19BFD00C61C1F /* Menu */ = {
+			isa = PBXGroup;
+			children = (
+				04F59D6D16DC470E000D312B /* MenuLayer.m */,
+				04F59D6C16DC46FF000D312B /* MenuLayer.h */,
+			);
+			name = Menu;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		DC1BE68414F417CC00F49D25 /* ubuntu-font-family-0.80 */ = {
@@ -585,6 +621,7 @@
 		DCC1A38C13A94F1A005BD75D /* Projectfiles */ = {
 			isa = PBXGroup;
 			children = (
+				04DDC2E516D19BFD00C61C1F /* Menu */,
 				049770D6169E5931009B5B96 /* Inventory */,
 				048CB147169E2ED6005CE213 /* GameWorld */,
 				048CB11A169E273A005CE213 /* ZBarSDK */,
@@ -611,6 +648,9 @@
 		DCC1A39413A94F1A005BD75D /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				04F59D7C16DC6BE0000D312B /* saint-petersburg.jpg */,
+				04F59D7A16DC6A73000D312B /* city-palace-interior.jpg */,
+				04F59D7816DC5FC0000D312B /* palace.jpg */,
 				0462F6EE16C2D06500A94BBD /* castle.png */,
 				048CB0DF169E2638005CE213 /* muffin.png */,
 				048CB0E0169E2638005CE213 /* bkg_field.jpg */,
@@ -791,6 +831,9 @@
 				048CB13B169E273B005CE213 /* zbar-helpicons.png in Resources */,
 				048CB13C169E273B005CE213 /* zbar-samples.png in Resources */,
 				0462F6EF16C2D06500A94BBD /* castle.png in Resources */,
+				04F59D7916DC5FC0000D312B /* palace.jpg in Resources */,
+				04F59D7B16DC6A73000D312B /* city-palace-interior.jpg in Resources */,
+				04F59D7D16DC6BE0000D312B /* saint-petersburg.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -835,9 +878,9 @@
 				048CB172169E2EE8005CE213 /* SceneModel.m in Sources */,
 				048CB173169E2EE8005CE213 /* SceneView.m in Sources */,
 				048CB174169E2EE8005CE213 /* MovementLayer.m in Sources */,
-				048CB175169E2EE8005CE213 /* NavLayer.m in Sources */,
-				048CB176169E2EE8005CE213 /* NavView.m in Sources */,
-				048CB177169E2EE8005CE213 /* NavModel.m in Sources */,
+				048CB175169E2EE8005CE213 /* CombatLayer.m in Sources */,
+				048CB176169E2EE8005CE213 /* CombatView.m in Sources */,
+				048CB177169E2EE8005CE213 /* CombatModel.m in Sources */,
 				048CB178169E2EE8005CE213 /* Model.m in Sources */,
 				049770DE169E594D009B5B96 /* Inventory.m in Sources */,
 				049770DF169E594D009B5B96 /* FoodItem.m in Sources */,
@@ -846,6 +889,10 @@
 				0409A89016B5F28F0019BB2C /* Global.m in Sources */,
 				0409A89316BAC69D0019BB2C /* SceneManager.m in Sources */,
 				0462F6EC16C2CB2400A94BBD /* Door.m in Sources */,
+				04F59D6E16DC470E000D312B /* MenuLayer.m in Sources */,
+				04F59D7516DC5025000D312B /* NavLayer.m in Sources */,
+				04F59D7616DC5025000D312B /* NavModel.m in Sources */,
+				04F59D7716DC5025000D312B /* NavView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

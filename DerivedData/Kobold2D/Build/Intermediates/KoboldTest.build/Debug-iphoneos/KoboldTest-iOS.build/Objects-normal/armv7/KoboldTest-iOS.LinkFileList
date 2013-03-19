@@ -16,9 +16,9 @@
 /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/KoboldTest.build/Debug-iphoneos/KoboldTest-iOS.build/Objects-normal/armv7/SceneModel.o
 /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/KoboldTest.build/Debug-iphoneos/KoboldTest-iOS.build/Objects-normal/armv7/SceneView.o
 /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/KoboldTest.build/Debug-iphoneos/KoboldTest-iOS.build/Objects-normal/armv7/MovementLayer.o
-/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/KoboldTest.build/Debug-iphoneos/KoboldTest-iOS.build/Objects-normal/armv7/NavLayer.o
-/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/KoboldTest.build/Debug-iphoneos/KoboldTest-iOS.build/Objects-normal/armv7/NavView.o
-/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/KoboldTest.build/Debug-iphoneos/KoboldTest-iOS.build/Objects-normal/armv7/NavModel.o
+/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/KoboldTest.build/Debug-iphoneos/KoboldTest-iOS.build/Objects-normal/armv7/CombatLayer.o
+/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/KoboldTest.build/Debug-iphoneos/KoboldTest-iOS.build/Objects-normal/armv7/CombatView.o
+/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/KoboldTest.build/Debug-iphoneos/KoboldTest-iOS.build/Objects-normal/armv7/CombatModel.o
 /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/KoboldTest.build/Debug-iphoneos/KoboldTest-iOS.build/Objects-normal/armv7/Model.o
 /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/KoboldTest.build/Debug-iphoneos/KoboldTest-iOS.build/Objects-normal/armv7/Inventory.o
 /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/KoboldTest.build/Debug-iphoneos/KoboldTest-iOS.build/Objects-normal/armv7/FoodItem.o
@@ -27,3 +27,7 @@
 /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/KoboldTest.build/Debug-iphoneos/KoboldTest-iOS.build/Objects-normal/armv7/Global.o
 /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/KoboldTest.build/Debug-iphoneos/KoboldTest-iOS.build/Objects-normal/armv7/SceneManager.o
 /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/KoboldTest.build/Debug-iphoneos/KoboldTest-iOS.build/Objects-normal/armv7/Door.o
+/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/KoboldTest.build/Debug-iphoneos/KoboldTest-iOS.build/Objects-normal/armv7/MenuLayer.o
+/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/KoboldTest.build/Debug-iphoneos/KoboldTest-iOS.build/Objects-normal/armv7/NavLayer.o
+/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/KoboldTest.build/Debug-iphoneos/KoboldTest-iOS.build/Objects-normal/armv7/NavModel.o
+/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/KoboldTest.build/Debug-iphoneos/KoboldTest-iOS.build/Objects-normal/armv7/NavView.o

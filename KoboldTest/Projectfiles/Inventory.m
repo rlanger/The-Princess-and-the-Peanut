@@ -7,8 +7,11 @@
 //
 
 #import "Inventory.h"
+#import "CWLSynthesizeSingleton.h"
 
 @implementation Inventory
+
+//CWL_SYNTHESIZE_SINGLETON_FOR_CLASS(Inventory);
 
 // Inventory has FoodItems as children
 // Also there's some type of InventoryLayer or InventoryScene to display this shiznit

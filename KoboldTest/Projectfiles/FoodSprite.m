@@ -21,12 +21,20 @@
 {
 	if ((self = [super initWithTexture:aTexture andModel:aModel andType:aType]) ) {
         
-        //foodFood = [FoodItem foodItemWithName:@"Muffin"];
+        foodFood = [FoodItem foodItemWithName:@"Muffin"];
         
 	}
     
 	return self;
 }
+
+- (FoodItem *) getFoodItem
+{
+    foodFood = [FoodItem foodItemWithName:@"Muffin"];
+
+    return foodFood;
+}
+
 
 -(void)tapped
 {

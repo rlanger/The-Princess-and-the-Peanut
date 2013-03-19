@@ -38,4 +38,8 @@ dependencies: \
   /Users/cicero/Kobold2D/Kobold2D-2.0.4/KoboldTest/Projectfiles/ZBarSDK/Headers/ZBarSDK/ZBarCaptureReader.h \
   /Users/cicero/Kobold2D/Kobold2D-2.0.4/KoboldTest/Projectfiles/ZBarSDK/Headers/ZBarSDK/ZBarHelpController.h \
   /Users/cicero/Kobold2D/Kobold2D-2.0.4/KoboldTest/Projectfiles/ZBarSDK/Headers/ZBarSDK/ZBarCameraSimulator.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/KoboldTest/Projectfiles/MenuLayer.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/KoboldTest/Projectfiles/CombatLayer.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/KoboldTest/Projectfiles/CombatModel.h \
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/KoboldTest/Projectfiles/CombatView.h \
   /Users/cicero/Kobold2D/Kobold2D-2.0.4/KoboldTest/../__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/SynthesizeSingleton.h

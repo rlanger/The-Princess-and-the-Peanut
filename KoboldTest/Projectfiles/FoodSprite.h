@@ -16,4 +16,6 @@
 
 @property FoodItem *foodFood;
 
+- (FoodItem *) getFoodItem;
+
 @end

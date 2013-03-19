@@ -62,7 +62,9 @@
 		// Inventory List
 		//
         
-        inventory = [Inventory createInventory];
+        
+        Global *sharedState = [Global sharedState];
+        inventory = sharedState->inventory;
 		
 		// Default font size will be 28 points.
 		[CCMenuItemFont setFontSize:28];
@@ -130,7 +132,7 @@
             //Return to Nav mode
             NSLog(@"CANCEL");
             
-            [SceneManager goNavLayer];
+            [SceneManager popLayer];
             
             /*CCScene *scene = [CCScene node];
             [scene addChild:[NavLayer nodeWithGameLevel:1]];

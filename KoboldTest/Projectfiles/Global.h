@@ -15,14 +15,20 @@
 @public
     Inventory *inventory;
     //SceneManager *sceneManager;
+    NSArray *allergens, *possibleAllergens;
+    
+    bool combatOn;
     
 }
 
 @property Inventory *inventory;
 //@property SceneManager *sceneManager;
+@property NSArray *allergens, *possibleAllergens;
 
-SYNTHESIZE_SINGLETON_FOR_CLASS_HEADER(Global);
+//SYNTHESIZE_SINGLETON_FOR_CLASS_HEADER(Global);
 
-+(id)sharedState;
++ (Global*)sharedState;
+
+- (void) addToInventory:(FoodItem *) item;
 
 @end

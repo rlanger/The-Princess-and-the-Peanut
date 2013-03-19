@@ -116,5 +116,4 @@ dependencies: \
   /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/kobold2d/KKDeviceMotion.h \
   /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/kobold2d/KKTouches.h \
   /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/kobold2d/KKTouch.h \
-  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/kobold2d/KKInputGesture.h \
-  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/kobold2d/cocos2d-ext/FixCategoryBug.h
+  /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/kobold2d/KKInputGesture.h

@@ -430,8 +430,6 @@
 		DC72238713FC35790014EB8F /* CCSpriteExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = DC72236013FC35790014EB8F /* CCSpriteExtensions.m */; };
 		DC72238813FC35790014EB8F /* cocos2d-extensions.h in Headers */ = {isa = PBXBuildFile; fileRef = DC72236113FC35790014EB8F /* cocos2d-extensions.h */; };
 		DC72238913FC35790014EB8F /* cocos2d-extensions.h in Headers */ = {isa = PBXBuildFile; fileRef = DC72236113FC35790014EB8F /* cocos2d-extensions.h */; };
-		DC72238A13FC35790014EB8F /* FixCategoryBug.h in Headers */ = {isa = PBXBuildFile; fileRef = DC72236313FC35790014EB8F /* FixCategoryBug.h */; };
-		DC72238B13FC35790014EB8F /* FixCategoryBug.h in Headers */ = {isa = PBXBuildFile; fileRef = DC72236313FC35790014EB8F /* FixCategoryBug.h */; };
 		DC7223CB13FC35E00014EB8F /* VTPG_Common.h in Headers */ = {isa = PBXBuildFile; fileRef = DC7223A313FC35E00014EB8F /* VTPG_Common.h */; };
 		DC7223CC13FC35E00014EB8F /* VTPG_Common.h in Headers */ = {isa = PBXBuildFile; fileRef = DC7223A313FC35E00014EB8F /* VTPG_Common.h */; };
 		DC7F433B1438884700FF7A65 /* KKTouch.h in Headers */ = {isa = PBXBuildFile; fileRef = DC7F43391438884700FF7A65 /* KKTouch.h */; };
@@ -1476,7 +1474,6 @@
 		DC72236013FC35790014EB8F /* CCSpriteExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpriteExtensions.m; sourceTree = "<group>"; };
 		DC72236113FC35790014EB8F /* cocos2d-extensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "cocos2d-extensions.h"; sourceTree = "<group>"; };
 		DC72236213FC35790014EB8F /* cocos2d-extensions.README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "cocos2d-extensions.README.txt"; sourceTree = "<group>"; };
-		DC72236313FC35790014EB8F /* FixCategoryBug.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FixCategoryBug.h; sourceTree = "<group>"; };
 		DC7223A313FC35E00014EB8F /* VTPG_Common.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VTPG_Common.h; sourceTree = "<group>"; };
 		DC7F43391438884700FF7A65 /* KKTouch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KKTouch.h; sourceTree = "<group>"; };
 		DC7F433A1438884700FF7A65 /* KKTouch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KKTouch.m; sourceTree = "<group>"; };
@@ -2521,7 +2518,6 @@
 				DC72235A13FC35790014EB8F /* ccMoreTypes.h */,
 				DC72236113FC35790014EB8F /* cocos2d-extensions.h */,
 				DC72236213FC35790014EB8F /* cocos2d-extensions.README.txt */,
-				DC72236313FC35790014EB8F /* FixCategoryBug.h */,
 			);
 			name = "Kobold2D Cocos2D Extensions";
 			path = "cocos2d-ext";
@@ -3687,7 +3683,6 @@
 				DC72238013FC35790014EB8F /* CCRemoveFromParentAction.h in Headers */,
 				DC72238413FC35790014EB8F /* CCSpriteExtensions.h in Headers */,
 				DC72238813FC35790014EB8F /* cocos2d-extensions.h in Headers */,
-				DC72238A13FC35790014EB8F /* FixCategoryBug.h in Headers */,
 				DC7223CB13FC35E00014EB8F /* VTPG_Common.h in Headers */,
 				DC0124F7141B8A0A001EE27D /* KKInput.h in Headers */,
 				DC0124FD141B8C50001EE27D /* KKInputKeyboard.h in Headers */,
@@ -3765,7 +3760,6 @@
 				DC72238113FC35790014EB8F /* CCRemoveFromParentAction.h in Headers */,
 				DC72238513FC35790014EB8F /* CCSpriteExtensions.h in Headers */,
 				DC72238913FC35790014EB8F /* cocos2d-extensions.h in Headers */,
-				DC72238B13FC35790014EB8F /* FixCategoryBug.h in Headers */,
 				DC7223CC13FC35E00014EB8F /* VTPG_Common.h in Headers */,
 				DC0124F8141B8A0A001EE27D /* KKInput.h in Headers */,
 				DC0124FE141B8C50001EE27D /* KKInputKeyboard.h in Headers */,

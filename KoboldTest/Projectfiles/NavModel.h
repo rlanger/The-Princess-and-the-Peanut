@@ -59,7 +59,6 @@
 - (bool) targetedBySelected: (NPC *)monster;
 -(CGPoint) avoidOtherNPCs:(NPC *)monster;
 - (void) attkDone: (RangedAttack *)attk;
-- (void) rangedAttackBy:(Character *) attacker On:(Character *) target;
 - (PlayerCharacter *) getTouchedPC: (UITouch *) touch;
 - (PlayerCharacter *) selectedPC;
 - (void) processTouches: (NSSet *)touches;

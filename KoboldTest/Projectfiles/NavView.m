@@ -100,23 +100,34 @@
 }
 
 - (void)addModeMenu
-{
-    CCMenu *modeMenu = [CCMenu menuWithItems:nil];
-    
+{    
     // Add the menu to the layer
-    [self addChild:modeMenu];
     
-    CCMenuItemFont *cancel = [CCMenuItemFont itemWithString: @"Inventory" block:^(id sender){        
-        //Return to Nav mode
-        NSLog(@"CANCEL");
+    CCMenuItemFont *m_inventory = [CCMenuItemFont itemWithString: @"Inventory" block:^(id sender){
+        NSLog(@"GO TO INVENTORY");
         
-        [SceneManager goInventoryLayer];
+        [SceneManager pushInventoryLayer];
     }];
-    [modeMenu addChild:cancel];
     
-    [modeMenu alignItemsHorizontallyWithPadding:20];
-    [modeMenu setPosition:ccp(100, 100)];
+    CCMenuItemFont *m_otherworld = [CCMenuItemFont itemWithString: @"Otherworld" block:^(id sender){
+        NSLog(@"GO TO SCAN");
+        
+        [SceneManager pushInventoryLayer];
+    }];
     
+    CCMenuItemFont *m_menu = [CCMenuItemFont itemWithString: @"Menu" block:^(id sender){
+        NSLog(@"GO TO MENU");
+        
+        [SceneManager goMenuLayer];
+    }];
+   
+    CCMenu *modeMenu = [CCMenu menuWithItems:m_inventory, m_otherworld, m_menu, nil];
+    
+    [modeMenu alignItemsVerticallyWithPadding:20];
+    [modeMenu setPosition:ccp(100, 600)];
+    
+    [self addChild:modeMenu];
+
 }
 
 

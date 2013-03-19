@@ -5,8 +5,12 @@
 
 static Global *sharedState = nil;
 
+//CWL_SYNTHESIZE_SINGLETON_FOR_CLASS(Global);
+
+
 @synthesize inventory;
 //@synthesize sceneManager;
+@synthesize allergens, possibleAllergens;
 
 + (Global *)sharedState {
     if (sharedState == nil) {
@@ -17,12 +21,23 @@ static Global *sharedState = nil;
 }
 
 -(id)init {
-    if(!(self = [super init]))
-        return nil;
-    self.inventory = [Inventory createInventory];
+    
+    self = [super init];
+    
+    if (self) {
+        self.inventory = [Inventory createInventory];
+        
+        self->combatOn = true;
+        
+        self.allergens = [NSArray arrayWithObjects:@"soy", @"edamame", @"miso", @"natto", @"shoyu", @"soybean", @"tamari", @"tempeh", @"textured vegetable protein", @"hydrolyzed vegetable protein", @"tofu", nil];
+        
+        self.possibleAllergens = [NSArray arrayWithObjects:@"flavoring",
+                                  @"broth", @"bouillon", nil];
+    }
     
     return self;
-}
+   
+    }
 
 +(id)alloc {
     @synchronized([Global class]) {
@@ -57,4 +72,11 @@ static Global *sharedState = nil;
     }
     return self;
 }
+
+
+- (void) addToInventory:(FoodItem *) item {
+    [inventory addItem:item];
+}
+
+
 @end

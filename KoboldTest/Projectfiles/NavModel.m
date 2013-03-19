@@ -7,6 +7,7 @@
 //
 
 #import "NavModel.h"
+#import "Global.h"
 
 // Import supporting classes
 
@@ -292,7 +293,7 @@ CGSize size;
 -(void) addRandomBread
 {
     CCTexture2D *breadTexture = [[CCTextureCache sharedTextureCache] addImage:@"muffin.png"];
-    NPC *bread = [NPC npcWithTexture:breadTexture andModel:self andType:OBJECT];
+    FoodSprite *bread = [FoodSprite npcWithTexture:breadTexture andModel:self andType:OBJECT];
     
     bread.position = [self randomLocation];
     [foods addObject:bread];
@@ -584,6 +585,16 @@ CGSize size;
     
     if (buttonIndex==0){
         //add muffin to inventory
+        
+        Global *sharedState = [Global sharedState];
+        
+        FoodSprite *tappedFood = foods[alertView.tag];
+        
+        FoodItem *tappedFoodItem = [tappedFood getFoodItem];
+        
+        [sharedState addToInventory:tappedFoodItem];
+        
+        
         [foods[alertView.tag] makeDead];
     }
     

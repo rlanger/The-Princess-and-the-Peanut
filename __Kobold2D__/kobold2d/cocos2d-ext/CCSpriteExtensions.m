@@ -9,8 +9,6 @@
 #import "CCAnimationExtensions.h"
 #import "CCRemoveFromParentAction.h"
 
-#import "FixCategoryBug.h"
-FIX_CATEGORY_BUG(CCSprite)
 
 @implementation CCSprite (KoboldExtensions)
 
