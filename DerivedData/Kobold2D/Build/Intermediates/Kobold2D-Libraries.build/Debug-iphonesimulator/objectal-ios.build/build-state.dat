@@ -1,947 +1,0 @@
-Tobjectal-ios
-v5
-r1
-cCheck dependencies
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAction.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALAction.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALActionManager.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALActionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioActions.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALAudioActions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALFunction.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALFunction.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTrack.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTrack.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTrackNotifications.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTrackNotifications.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTracks.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTracks.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALUtilityActions.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALUtilityActions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALBuffer.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALBuffer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALSimpleAudio.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OALSimpleAudio.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALCaptureDevice.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALCaptureDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALChannelSource.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALChannelSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALDevice.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALContext.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALContext.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALListener.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALSoundSourcePool.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSoundSourcePool.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALSource.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALWrapper.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALWrapper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OpenALManager.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/OpenALManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioSession.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session/OALAudioSession.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/IOSVersion.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/IOSVersion.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALSuspendHandler.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session/OALSuspendHandler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/mach_timing.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/mach_timing.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioFile.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALAudioFile.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALTools.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALTools.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/libobjectal-ios.a normal i386
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
-c00000000504916AD0000000000000110
-t1346967213
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
-c0000000050C7EDCD0000000000000944
-t1355279821
-s2372
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
-c0000000050C7EDCD0000000000000A21
-t1355279821
-s2593
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c0000000050C7EDCF00000000000015F7
-t1355279823
-s5623
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
-c0000000050C7EDD000000000000005C2
-t1355279824
-s1474
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
-c0000000050C7EDD300000000000064FD
-t1355279827
-s25853
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
-c0000000050C7EDD30000000000001F45
-t1355279827
-s8005
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c0000000050C7EDD40000000000000E8D
-t1355279828
-s3725
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
-c0000000050C7EDE60000000000001B54
-t1355279846
-s6996
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/objc/message.h
-c0000000050C7EDE700000000000023DB
-t1355279847
-s9179
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/objc/runtime.h
-c0000000050C7EDE7000000000000672A
-t1355279847
-s26410
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALBuffer.o
-t1360366092
-s21428
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALCaptureDevice.o
-t1360366092
-s14608
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALChannelSource.o
-t1360366092
-s98000
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALContext.o
-t1360366092
-s46576
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALDevice.o
-t1360366092
-s25180
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALListener.o
-t1360366092
-s24184
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALSoundSourcePool.o
-t1360366092
-s13868
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALSource.o
-t1360366093
-s103312
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALWrapper.o
-t1360366093
-s109268
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/IOSVersion.o
-t1360366092
-s20796
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAction.o
-t1360366091
-s26060
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALActionManager.o
-t1360366092
-s34732
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioActions.o
-t1360366091
-s39908
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioFile.o
-t1360366093
-s29776
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioSession.o
-t1360366092
-s69372
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTrack.o
-t1360366092
-s94672
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTrackNotifications.o
-t1360366092
-s4156
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTracks.o
-t1360366092
-s38500
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALFunction.o
-t1360366092
-s61528
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALSimpleAudio.o
-t1360366092
-s94248
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALSuspendHandler.o
-t1360366092
-s19628
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALTools.o
-t1360366093
-s12196
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALUtilityActions.o
-t1360366091
-s45936
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OpenALManager.o
-t1360366092
-s52848
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/mach_timing.o
-t1360366092
-s4304
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/objectal-ios.LinkFileList
-c0000000051158A0600000000000011A8
-t1360366086
-s4520
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-faeotlatjuxeddbepevzktrrvgxj/Prefix-iOS.pch.pth
-t1360366089
-s124872
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch.pth
-t1360366081
-s6690156
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/libobjectal-ios.a
-t1360366093
-s1123136
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/kobold2d/kkARCSupport.h
-c000000004F803F7E000000000000080A
-t1333804926
-s2058
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALAction.h
-c000000004F803F780000000000002550
-t1333804920
-s9552
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALAction.m
-c000000004F803F780000000000001957
-t1333804920
-s6487
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALActionManager.h
-c000000004F803F930000000000000C0D
-t1333804947
-s3085
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALActionManager.m
-c000000004F803F940000000000001A6F
-t1333804948
-s6767
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALAudioActions.h
-c000000004F803F77000000000000175B
-t1333804919
-s5979
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALAudioActions.m
-c000000004F803F770000000000002492
-t1333804919
-s9362
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALFunction.h
-c000000004F803F920000000000001838
-t1333804946
-s6200
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALFunction.m
-c000000004F803F920000000000000F21
-t1333804946
-s3873
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALUtilityActions.h
-c000000004F803F780000000000001D21
-t1333804920
-s7457
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALUtilityActions.m
-c000000004F803F7800000000000030D6
-t1333804920
-s12502
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTrack.h
-c000000004F803F7B000000000000415E
-t1333804923
-s16734
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTrack.m
-c000000004F803F7B0000000000006045
-t1333804923
-s24645
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTrackNotifications.h
-c000000004F803F8700000000000001AC
-t1333804935
-s428
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTrackNotifications.m
-c000000004F803F87000000000000026E
-t1333804935
-s622
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTracks.h
-c000000004F803F760000000000000A4F
-t1333804918
-s2639
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTracks.m
-c000000004F803F76000000000000133F
-t1333804918
-s4927
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OALSimpleAudio.h
-c000000004F803F95000000000000445B
-t1333804949
-s17499
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OALSimpleAudio.m
-c000000004F803F950000000000003BE4
-t1333804949
-s15332
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/ObjectALConfig.h
-c000000004F803F77000000000000124C
-t1333804919
-s4684
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALBuffer.h
-c000000004F803F8A000000000000123F
-t1333804938
-s4671
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALBuffer.m
-c000000004F803F8A00000000000012CC
-t1333804938
-s4812
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALCaptureDevice.h
-c000000004F803F9F0000000000001124
-t1333804959
-s4388
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALCaptureDevice.m
-c000000004F803F9F0000000000000D19
-t1333804959
-s3353
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALChannelSource.h
-c000000004F803F8A00000000000018C4
-t1333804938
-s6340
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALChannelSource.m
-c000000004F803F8A0000000000003A06
-t1333804938
-s14854
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALContext.h
-c000000004F803F960000000000002167
-t1333804950
-s8551
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALContext.m
-c000000004F803F9600000000000028EB
-t1333804950
-s10475
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALDevice.h
-c000000004F803F930000000000000EA7
-t1333804947
-s3751
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALDevice.m
-c000000004F803F930000000000001140
-t1333804947
-s4416
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALListener.h
-c000000004F803F860000000000000CEA
-t1333804934
-s3306
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALListener.m
-c000000004F803F860000000000001196
-t1333804934
-s4502
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSoundSource.h
-c000000004F803F8A0000000000001C05
-t1333804938
-s7173
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSoundSourcePool.h
-c000000004F803F7500000000000009BA
-t1333804917
-s2490
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSoundSourcePool.m
-c000000004F803F750000000000000C8B
-t1333804917
-s3211
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSource.h
-c000000004F803F8A00000000000015A2
-t1333804938
-s5538
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSource.m
-c000000004F803F8A0000000000006291
-t1333804938
-s25233
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALTypes.h
-c000000004F803F7C0000000000000D83
-t1333804924
-s3459
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALWrapper.h
-c000000004F803F8B0000000000007563
-t1333804939
-s30051
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALWrapper.m
-c00000000501197BA0000000000006E27
-t1343330234
-s28199
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/OpenALManager.h
-c000000004F803F80000000000000243F
-t1333804928
-s9279
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/OpenALManager.m
-c000000004F803F8000000000000024BE
-t1333804928
-s9406
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session/OALAudioSession.h
-c000000004F803F7E00000000000016D1
-t1333804926
-s5841
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session/OALAudioSession.m
-c00000000501197BA0000000000003D16
-t1343330234
-s15638
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session/OALSuspendHandler.h
-c000000004F803F9800000000000016C7
-t1333804952
-s5831
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session/OALSuspendHandler.m
-c000000004F803F9800000000000019E6
-t1333804952
-s6630
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/IOSVersion.h
-c000000004F803F7E0000000000000302
-t1333804926
-s770
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/IOSVersion.m
-c000000004F803F7E00000000000003E8
-t1333804926
-s1000
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/NSMutableArray+WeakReferences.h
-c000000004F803F82000000000000038B
-t1333804930
-s907
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALAudioFile.h
-c000000004F803F99000000000000110C
-t1333804953
-s4364
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALAudioFile.m
-c00000000501197BA0000000000002313
-t1343330234
-s8979
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALNotifications.h
-c000000004F803F7B0000000000000520
-t1333804923
-s1312
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALTools.h
-c000000004F803F8E0000000000000B85
-t1333804942
-s2949
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALTools.m
-c00000000501197BA00000000000017E9
-t1343330234
-s6121
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/ObjectALMacros.h
-c000000004F803F950000000000001B21
-t1333804949
-s6945
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/SynthesizeSingleton.h
-c000000004F803F9F000000000000330A
-t1333804959
-s13066
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/mach_timing.c
-c000000004F803F980000000000000261
-t1333804952
-s609
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/mach_timing.h
-c000000004F803F9800000000000001C0
-t1333804952
-s448
-
-N/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/prefix/Prefix-iOS.pch
-c000000004FC0DF0600000000000003F2
-t1338040070
-s1010
-i<Availability.h>
-i<Availability.h>
-i<Foundation/Foundation.h>
-i<GameKit/GameKit.h>
-i<UIKit/UIKit.h>
-i<AVFoundation/AVFoundation.h>
-i<AudioToolbox/AudioToolbox.h>
-i<OpenAL/al.h>
-i<OpenAL/alc.h>
-i<objc/runtime.h>
-i<objc/message.h>
-i<algorithm>
-i<cassert>
-i<cfloat>
-i<climits>
-i<cmath>
-i<cstdarg>
-i<cstddef>
-i<cstdio>
-i<cstdlib>
-i<cstring>
-i<memory>
-i<new>
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALAction.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALActionManager.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALAudioActions.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALFunction.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALUtilityActions.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTrack.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTrackNotifications.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTracks.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OALSimpleAudio.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALBuffer.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALCaptureDevice.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALChannelSource.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALContext.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALDevice.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALListener.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSoundSourcePool.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSource.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALWrapper.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/OpenALManager.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session/OALAudioSession.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session/OALSuspendHandler.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/IOSVersion.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALAudioFile.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALTools.m
-r0
-
-CBuild AST from /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/mach_timing.c
-r0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies056d9a9dacefb641^83a2a59dacefb641^---0#1#0#--18"Check dependencies36"E75BAD0F-2E9B-4713-A1C2-5169384666BD-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALBuffer.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALBuffer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058892.111354
-e382058892.219687
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALBuffer.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALBuffer.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALBuffer.m27c01c8cc1c5b641^1554388cc1c5b641^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALBuffer.m0000000000000000^4248"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALBuffer.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALBuffer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALBuffer.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALBuffer.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALBuffer.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALBuffer.o36"6FE11D6B-1004-44D1-B583-458AA8A4E02E-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALCaptureDevice.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALCaptureDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058892.221222
-e382058892.311293
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALCaptureDevice.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALCaptureDevice.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALCaptureDevice.m36e7388cc1c5b641^f2b54f8cc1c5b641^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALCaptureDevice.m0000000000000000^4290"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALCaptureDevice.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALCaptureDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALCaptureDevice.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALCaptureDevice.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALCaptureDevice.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALCaptureDevice.o36"B8126A7A-84E7-43C9-83F9-29F280171976-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALChannelSource.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALChannelSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058892.222489
-e382058892.602474
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALChannelSource.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALChannelSource.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALChannelSource.m7f2f398cc1c5b641^b14d9a8cc1c5b641^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALChannelSource.m0000000000000000^4290"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALChannelSource.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALChannelSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALChannelSource.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALChannelSource.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALChannelSource.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALChannelSource.o36"5236EEE8-E38F-43DD-98A5-6AE34FFDF0E3-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALContext.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALContext.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058892.312858
-e382058892.457512
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALContext.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALContext.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALContext.m2f52508cc1c5b641^821f758cc1c5b641^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALContext.m0000000000000000^4254"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALContext.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALContext.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALContext.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALContext.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALContext.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALContext.o36"36723389-16DD-4D23-A488-7A2D3970C103-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALDevice.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058892.397975
-e382058892.520798
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALDevice.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALDevice.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALDevice.ma017668cc1c5b641^226f858cc1c5b641^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALDevice.m0000000000000000^4248"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALDevice.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALDevice.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALDevice.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALDevice.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALDevice.o36"7E2568CD-60D6-4D7F-9A24-9D752ED2DD66-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALListener.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058892.419986
-e382058892.524781
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALListener.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALListener.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALListener.m4dc06b8cc1c5b641^f986868cc1c5b641^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALListener.m0000000000000000^4260"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALListener.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALListener.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALListener.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALListener.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALListener.o36"1DEA78F9-38B5-4E34-9DB8-4C2C32D70498-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALSoundSourcePool.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSoundSourcePool.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058892.459046
-e382058892.525318
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALSoundSourcePool.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSoundSourcePool.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSoundSourcePool.m44c0758cc1c5b641^3694868cc1c5b641^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSoundSourcePool.m0000000000000000^4302"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALSoundSourcePool.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSoundSourcePool.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALSoundSourcePool.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALSoundSourcePool.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSoundSourcePool.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALSoundSourcePool.o36"F30A146B-FA92-4997-9AC8-06A2DBD8DEFF-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALSource.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058892.522387
-e382058893.027894
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALSource.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSource.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSource.mf9f7858cc1c5b641^0668078dc1c5b641^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSource.m0000000000000000^4248"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALSource.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALSource.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALSource.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALSource.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALSource.o36"0C08187C-73A9-46C5-ABE8-A0E661A14F2A-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALWrapper.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALWrapper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058892.526563
-e382058893.033184
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALWrapper.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALWrapper.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALWrapper.ma112878cc1c5b641^eb8b088dc1c5b641^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALWrapper.m0000000000000000^4254"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALWrapper.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALWrapper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALWrapper.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALWrapper.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/ALWrapper.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/ALWrapper.o36"D9087A4F-A6B5-4214-A1DC-69B8A4942661-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/IOSVersion.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/IOSVersion.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058892.772023
-e382058892.955176
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/IOSVersion.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/IOSVersion.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/IOSVersion.ma5dcc58cc1c5b641^b2a0f48cc1c5b641^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/IOSVersion.m0000000000000000^4262"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/IOSVersion.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/IOSVersion.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/IOSVersion.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/IOSVersion.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/IOSVersion.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/IOSVersion.o36"1F103FBA-82AF-49D1-B50E-30ABB160401D-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAction.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALAction.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058891.685009
-e382058891.817333
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAction.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALAction.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALAction.mf695af8bc1c5b641^213dd18bc1c5b641^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALAction.m0000000000000000^4256"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAction.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALAction.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAction.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAction.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALAction.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAction.o36"7F5EF77F-842C-4BE4-ADA8-2FBA9E691EB5-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALActionManager.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALActionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058891.700541
-e382058892.035905
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALActionManager.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALActionManager.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALActionManager.mc092b38bc1c5b641^0131098cc1c5b641^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALActionManager.m0000000000000000^4298"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALActionManager.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALActionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALActionManager.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALActionManager.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALActionManager.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALActionManager.o36"7DDA9D88-7DA9-4F93-BCC5-76AB08AAC0DF-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioActions.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALAudioActions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058891.818813
-e382058891.942603
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioActions.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALAudioActions.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALAudioActions.me5d5d18bc1c5b641^c24ef18bc1c5b641^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALAudioActions.m0000000000000000^4292"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioActions.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALAudioActions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioActions.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioActions.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALAudioActions.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioActions.o36"DFF453E4-41B5-4C1C-B4E0-EAFADCEA5571-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioFile.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALAudioFile.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058892.957723
-e382058893.083099
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioFile.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALAudioFile.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALAudioFile.mae62f58cc1c5b641^f661158dc1c5b641^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALAudioFile.m0000000000000000^4274"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioFile.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALAudioFile.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioFile.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioFile.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALAudioFile.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioFile.o36"C6396F04-04C4-4350-A416-EB04785DE4EA-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioSession.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session/OALAudioSession.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058892.603946
-e382058892.770385
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioSession.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session/OALAudioSession.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session/OALAudioSession.maad69a8cc1c5b641^0438c58cc1c5b641^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session/OALAudioSession.m0000000000000000^4292"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioSession.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session/OALAudioSession.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioSession.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioSession.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session/OALAudioSession.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioSession.o36"159931DF-A009-4464-A8B9-8F2A1766BE6A-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTrack.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTrack.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058891.973098
-e382058892.381629
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTrack.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTrack.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTrack.m2d5df98bc1c5b641^fab5618cc1c5b641^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTrack.m0000000000000000^4286"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTrack.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTrack.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTrack.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTrack.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTrack.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTrack.o36"13113ADA-F3C5-4AE6-8268-7C0F1B4066A2-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTrackNotifications.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTrackNotifications.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058892.017915
-e382058892.061784
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTrackNotifications.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTrackNotifications.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTrackNotifications.m46d0048cc1c5b641^1712108cc1c5b641^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTrackNotifications.m0000000000000000^4364"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTrackNotifications.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTrackNotifications.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTrackNotifications.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTrackNotifications.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTrackNotifications.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTrackNotifications.o36"D6946FC1-A0B7-4808-93D5-5226FAF798A1-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTracks.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTracks.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058892.038548
-e382058892.219871
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTracks.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTracks.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTracks.m9b1c0a8cc1c5b641^925a388cc1c5b641^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTracks.m0000000000000000^4292"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTracks.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTracks.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTracks.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTracks.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack/OALAudioTracks.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALAudioTracks.o36"A760DCFB-8655-4276-B072-83AE080C2043-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALFunction.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALFunction.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058891.848493
-e382058892.016323
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALFunction.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALFunction.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALFunction.m4d65d98bc1c5b641^122e048cc1c5b641^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALFunction.m0000000000000000^4268"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALFunction.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALFunction.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALFunction.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALFunction.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALFunction.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALFunction.o36"76DDA942-55C3-49B4-B38D-7E3171E9069C-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALSimpleAudio.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OALSimpleAudio.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058892.063491
-e382058892.418550
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALSimpleAudio.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OALSimpleAudio.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OALSimpleAudio.me17a108cc1c5b641^bb426b8cc1c5b641^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OALSimpleAudio.m0000000000000000^4270"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALSimpleAudio.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OALSimpleAudio.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALSimpleAudio.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALSimpleAudio.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OALSimpleAudio.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALSimpleAudio.o36"8F989949-1E1C-4771-BADD-935246206500-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALSuspendHandler.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session/OALSuspendHandler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058892.699047
-e382058892.771073
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALSuspendHandler.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session/OALSuspendHandler.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session/OALSuspendHandler.m8f8eb38cc1c5b641^876bc58cc1c5b641^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session/OALSuspendHandler.m0000000000000000^4304"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALSuspendHandler.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session/OALSuspendHandler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALSuspendHandler.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALSuspendHandler.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session/OALSuspendHandler.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALSuspendHandler.o36"8EBDD62A-2907-42BE-8EEA-D8DFBA7DDEF6-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALTools.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALTools.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058892.971575
-e382058893.041294
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALTools.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALTools.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALTools.m84f0f88cc1c5b641^daac0a8dc1c5b641^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALTools.m0000000000000000^4250"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALTools.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALTools.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALTools.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALTools.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/OALTools.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALTools.o36"1E56A8D1-1565-4D4A-BF6B-09BF4A996DF0-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALUtilityActions.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALUtilityActions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058891.849477
-e382058891.971602
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALUtilityActions.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALUtilityActions.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALUtilityActions.m3ba7d98bc1c5b641^abd0f88bc1c5b641^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALUtilityActions.m0000000000000000^4304"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALUtilityActions.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALUtilityActions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALUtilityActions.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALUtilityActions.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions/OALUtilityActions.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OALUtilityActions.o36"262F4339-8EA4-403D-AC12-F9B31C5E816E-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OpenALManager.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/OpenALManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382058892.529124
-e382058892.697491
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OpenALManager.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/OpenALManager.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/OpenALManager.mb4ac878cc1c5b641^389fb28cc1c5b641^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/OpenALManager.m0000000000000000^4278"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OpenALManager.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/OpenALManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wstrict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OpenALManager.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OpenALManager.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL/OpenALManager.m -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/OpenALManager.o36"A6E0AE6E-55AC-4850-BABB-E0A3CA4C8F63-
-
-CCompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/mach_timing.o /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/mach_timing.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s382058892.772313
-e382058892.969279
-r1
-xCompileC
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/mach_timing.o
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/mach_timing.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/mach_timing.c0fefc58cc1c5b641^0a66f88cc1c5b641^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/mach_timing.c0000000000000000^3884"CompileC /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/mach_timing.o libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/mach_timing.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wsign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -ffast-math -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -mios-simulator-version-min=4.3 -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-generated-files.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-own-target-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-all-target-headers.hmap -iquote /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/objectal-ios-project-headers.hmap -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources/i386 -I/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/DerivedSources -F/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -include /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-faeotlatjuxeddbepevzktrrvgxj/Prefix-iOS.pch -MMD -MT dependencies -MF /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/mach_timing.d --serialize-diagnostics /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/mach_timing.dia -c /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support/mach_timing.c -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/mach_timing.o36"2D61BBD6-F58F-4893-82D2-3873E1D8F824-
-
-CLibtool /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/libobjectal-ios.a normal i386
-s382058893.178354
-e382058893.245511
-r1
-xLibtool
-x/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/libobjectal-ios.a
-xnormal
-xi386
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Libtool /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/libobjectal-ios.a normal i386fddb2d8dc1c5b641^7cf03e8dc1c5b641^---0#0#0#--1454"Libtool /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/libobjectal-ios.a normal i386    cd /Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator -L/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/../__Kobold2D__/libs/iSimulateSDK -L/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/../__Kobold2D__/libs/GoogleAdMobAdsSDK -L/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/../__Kobold2D__/libs/iSimulateSDK -L/Users/cicero/Kobold2D/Kobold2D-2.0.4/__Kobold2D__/../__Kobold2D__/libs/GoogleAdMobAdsSDK -filelist /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/Kobold2D-Libraries.build/Debug-iphonesimulator/objectal-ios.build/Objects-normal/i386/objectal-ios.LinkFileList -o /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Products/Debug-iphonesimulator/libobjectal-ios.a36"589AF341-205D-449C-A700-312DD6BCF4E5-
-
-CProcessPCH /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-faeotlatjuxeddbepevzktrrvgxj/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CProcessPCH /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Build/Intermediates/PrecompiledHeaders/Prefix-iOS-gzdfhwuhcozlydblnvwokymvwkzn/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CProcessPCH /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Index/PrecompiledHeaders/Prefix-iOS-dhkclrdaeundrtatiiwsthepirbf_ast/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal i386 c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /Users/cicero/Kobold2D/Kobold2D-2.0.4/DerivedData/Kobold2D/Index/PrecompiledHeaders/Prefix-iOS-gxafglofnmauhgefgfebaqjnnqpn_ast/Prefix-iOS.pch.pth prefix/Prefix-iOS.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
