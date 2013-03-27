@@ -30,5 +30,8 @@ __Kobold2D__/
 Kobold2D Project Starter.app/
 Kobold2D Project Upgrader.app/
 Kobold2D.xcworkspace/
-
 Kobold2D Documentation.html
+
+KoboldTest/BuildSettings/
+KoboldTest/DerivedData/
+KoboldTest/KoboldTest.xcodeproj
